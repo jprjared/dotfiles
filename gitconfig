@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jamesjared22@gmail.com
+	name = James Jared
